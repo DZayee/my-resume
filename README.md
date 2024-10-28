@@ -18,7 +18,7 @@ A brief description of your experience and skills.
 ## Work Experience
 ### Country Community Manager
 Co Founder BachMa Labs (January 2024 - Present)
-- Community building and management: Ambassador in Spindle Finance (Aug 2024 - Present), Moderator in XNETWORKVN (2022-2023)
+- Community building and management: Ambassador in Spindle Finance (Aug 2024 - Present), Moderator in XNETWORKVN (2022-2023) </br>
 Led community campaigns on platforms such as Discord and Twitter, achieving.
 Developed and implemented community engagement plans to enhance participation and user retention.
 Organized online and offline events to connect with the community and promote products.
@@ -33,3 +33,6 @@ Web3 Engineer, Senior InfoSec, Hacking, Data Analytics.
 - Social Media: Proficient in using platforms like Discord, Twitter, and Telegram for communication and engagement.
 - Data Analysis: Ability to analyze community metrics to make data-driven decisions.
 - Event Organization: Experience in planning and managing community events.
+- Languages:
+Vietnamese: Native
+English (IELTS: 4.5)
