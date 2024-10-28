@@ -16,7 +16,7 @@ A brief description of your experience and skills.
 🔭 I’m currently working on Web3
 
 ## Work Experience
-### Country Community Manager
+### Community Manager
 Co Founder BachMa Labs (January 2024 - Present)
 - Community building and management: Ambassador in Spindle Finance (Aug 2024 - Present), Moderator in XNETWORKVN (2022-2023) </br>
 Led community campaigns on platforms such as Discord and Twitter, achieving.
